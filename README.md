@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 </p>
 
 ---
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=TamerWalid&theme=tokyonight)](https://github.com/TamerWalid)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=TamerWalid&theme=TamerWalid)](https://github.com/TamerWalid)
