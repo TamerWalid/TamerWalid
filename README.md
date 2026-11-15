@@ -1,21 +1,31 @@
-github-header-banner.png
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TamerWalid/TamerWalid/main/icons/github-header-banner.png" alt="Tamer Walid" width="100%">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2 align="center">Hi there, I'm Tamer 👋</h2>
 
 <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="48" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" />
+  Beginner developer learning web development, one step at a time.
 </p>
 
 ---
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=TamerWalid&theme=hacker&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cexit)](https://github.com/TamerWalid)
+
+### 🌱 Currently learning
+HTML, CSS and JavaScript
+
+### 🛠️ Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="skills">
+</p>
+
+### 📟 Stats
+<p align="center">
+  <a href="https://github.com/TamerWalid">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=TamerWalid&theme=tokyonight" alt="GitHub Stats Terminal">
+  </a>
+</p>
+
+### 📫 Contact
+[Website](https://taymor.au) · [Facebook](https://facebook.com/taymor.au)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" alt="">
