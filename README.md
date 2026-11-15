@@ -74,8 +74,8 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=TamerWalid&&style=flat-square" align="center" />
-</div>  
+<img src="https://github.com/iosephXD/TamerWalid/blob/main/icons/footer.svg" width="100%" />
+</div>
   
 
 <br/>  
