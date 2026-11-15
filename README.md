@@ -12,4 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="48" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" width="48" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" width="48" />
+</p>
