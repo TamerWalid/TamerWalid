@@ -84,5 +84,5 @@
 <br />
 
 <div align="center">
-<img src="https://github.com/TamerWalid/TamerWalid/blob/main/icons/footer.svg" width="60%" />
+<img src="https://github.com/TamerWalid/TamerWalid/blob/main/icons/footer.svg" width="400" />
 </div>
