@@ -1,5 +1,4 @@
-## Hi there 👋
-
+github-header-banner.png
 
 Here are some ideas to get you started:
 
