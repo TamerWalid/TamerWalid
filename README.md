@@ -83,5 +83,6 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+<img src="https://github.com/TamerWalid/TamerWalid/blob/main/icons/footer.svg" width="100%" />
+</div>
