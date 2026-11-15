@@ -12,9 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
